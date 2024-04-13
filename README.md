@@ -43,8 +43,8 @@ Now this current version is integreted with google geminiai
 ```
 ## What's new in v2.1?
 ```py
-from srinadhch07.BAv2 import chatbot
-chatbot()
+from srinadhch07.BAv2G import chatG
+chatG()
 ```
 ## Requirements
 ```bash
@@ -52,8 +52,8 @@ chatbot()
 pip install -q -U google-generativeai
 
 ```
-### This method can be used to use assistant which provides more features then previous version.
-- Make sure your PC installed all the neccesary modules before running CMD  based appliction.
+### This method can be used to use an assistant which provides more features then previous version.
+- Make sure your PC installed all the necessary modules before running CMD  based application.
 - You can also type and scroll too, enjoy.
 - More information here https://github.com/Srinadhch07/BAv2.git with the raw code.
 
@@ -67,9 +67,11 @@ pip install -q -U google-generativeai
 
 ```py
 from srinadhch07.BAv2 import chatbot
+from srinadhch07.BAv2G import chatG
 #To start working with BAv2 
 chatbot()
-
+#to start work with BAv2G
+chatG()
 ```
 
 For more Examples and Functions, have a look at the [Wiki](https://github.com/Srinadhch07/BAv2/wiki).
