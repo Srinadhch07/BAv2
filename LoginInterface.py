@@ -28,7 +28,6 @@ listen_music=["https://youtube.com/@7clouds",
 listen_news=["https://youtube.com/@etvtelangana",
 "https://youtube.com/@BBCNews",
 "https://youtube.com/@V6NewsTelugu"]
-#KEY=AIzaSyD9a47SJ5kKfmMKpX8A2c5ox_CsYp_E52o
 
 genai.configure(api_key="YOUR_API_KEY")
 # Set up the model
